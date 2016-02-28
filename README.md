@@ -3,8 +3,6 @@ All data from liber 777 in json format
 
 ##Translation needed: 
 
-	Spelling of Tetragrammaton in the Four Worlds
-	The Alchemical Elements.
 	Intelligences of the Planets
 	Spirits of the Planets
 	Divine Names of Briah
@@ -12,8 +10,8 @@ All data from liber 777 in json format
 	The Revolutions of HWHY in Yetzirah
 	The Revolutions of Adonai in Assiah
 	Some Princes of the Qliphoth.
-	Alchemical Tree of Life (i.)
-	Alchemical Metals (ii.)
+	Alchemical Tree of Life (i.) //missing symbol
+	Alchemical Metals (ii.)		 //missing symbol
 	Pairs of Angels ruling Wands
 	Pairs of Angels ruling Cups.
 	Pairs of Angels ruling Swords.
@@ -22,6 +20,5 @@ All data from liber 777 in json format
  	Titles and Attributions of the Cup or Chalice Suit [Hearts]
  	Titles and Attributions of the Sword Suit [Spades]
  	Titles and Attributions of the Coin, Disc or Pantacle Suit [Diamonds]
- 	Planets exalted in Col. CXXXVII.
  	The Mansions of the Moon. [Hindu, Nakshatra] Arab, Manazil
  	Yetziratic Attribution of Col. CLXXV.
