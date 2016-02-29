@@ -2396,18 +2396,18 @@
     "10": "Palace of Crystalline Whiteness"
   },
   "LXXXIX": {
-    "columnName": "The Revolutions of HYHA in Briah",
+    "columnName": "The Revolutions of היהא in Briah",
     "0": "...",
-    "1": "",
-    "2": "",
-    "3": "",
-    "4": "",
-    "5": "",
-    "6": "",
-    "7": "",
-    "8": "",
-    "9": "",
-    "10": ""
+    "1": "היהא",
+    "2": "וחחא",
+    "3": "איהה",
+    "4": "איהה",
+    "5": "יאהה",
+    "6": "יהאה",
+    "7": "היאה",
+    "8": "האיה",
+    "9": "ההאי",
+    "10": "אההי"
   },
   "XC": {
     "columnName": "The 42-fold Name which revolves in the Palaces of Yetzirah",
@@ -2479,7 +2479,7 @@
     "9": "Veil of the vault of heaven",
     "10": "Veil of the vault of heaven"
   },
-  "XCV": {
+  "XCV.": {
     "columnName": "Contents of Col. XCIV",
     "0": "...",
     "1": "Blessings, all good things",
@@ -2493,22 +2493,22 @@
     "9": "Has no use. Follow 390 heavens, 18,000 worlds, Earth, Eden and Hell.",
     "10": "Has no use. Follow 390 heavens, 18,000 worlds, Earth, Eden and Hell."
   },
-  "XCVI": {
+  "XCVI.*": {
     "columnName": "The Revolutions of HWHY in Yetzirah",
     "0": "...",
-    "1": "",
-    "2": "",
-    "3": "",
-    "4": "",
-    "5": "",
-    "6": "",
-    "7": "",
-    "8": "",
-    "9": "",
-    "10": ""
+    "1": "הוהי",
+    "2": "וההי",
+    "3": "ההוי",
+    "4": "היוה",
+    "5": "יוהה",
+    "6": "ויהה",
+    "7": "והיה",
+    "8": "יהוה",
+    "9": "היהו",
+    "10": "ההיו"
   },
-  "XCVII": {
-    "columnName": "bar",
+  "XCVII.": {
+    "columnName": "Parts of the Soul",
     "0": "...",
     "1": "Yechidah",
     "2": "Chiah",
@@ -2578,18 +2578,18 @@
     "10": "Flames"
   },
   "CII.*": {
-    "columnName": "The Revolutions of Adonai in Assiah",
-    "0": "",
-    "1": "",
-    "2": "",
-    "3": "",
-    "4": "",
-    "5": "",
-    "6": "",
-    "7": "",
-    "8": "",
-    "9": "",
-    "10": ""
+    "columnName": "The Revolutions of ינדא in Assiah",
+    "0": "...",
+    "1": "ינדא",
+    "2": "נידא",
+    "3": "דינא",
+    "4": "דניא",
+    "5": "נדיא",
+    "6": "אינד",
+    "7": "יאנד",
+    "8": "אניד",
+    "9": "נאיד",
+    "10": "ינאד"
   },
   "CIII.*": {
     "columnName": "The Ten Divisions of the Body of God",

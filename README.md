@@ -6,9 +6,6 @@ All data from liber 777 in json format
 	Intelligences of the Planets
 	Spirits of the Planets
 	Divine Names of Briah
-	The Revolutions of HYHA in Briah
-	The Revolutions of HWHY in Yetzirah
-	The Revolutions of Adonai in Assiah
 	Some Princes of the Qliphoth.
 	Alchemical Tree of Life (i.) //missing symbol
 	Alchemical Metals (ii.)		 //missing symbol
